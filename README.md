@@ -1,6 +1,8 @@
 CubeFit
 =======
 
+[![Join the chat at https://gitter.im/snfactory/cubefit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/snfactory/cubefit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Fit supernova + galaxy model on a Nearby Supernova Factory spectral data cube.
 
 
